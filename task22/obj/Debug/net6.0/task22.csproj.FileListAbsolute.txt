@@ -1,0 +1,15 @@
+C:\Users\samsung\Desktop\git\Homework\Homework3\task22\bin\Debug\net6.0\task22.exe
+C:\Users\samsung\Desktop\git\Homework\Homework3\task22\bin\Debug\net6.0\task22.deps.json
+C:\Users\samsung\Desktop\git\Homework\Homework3\task22\bin\Debug\net6.0\task22.runtimeconfig.json
+C:\Users\samsung\Desktop\git\Homework\Homework3\task22\bin\Debug\net6.0\task22.dll
+C:\Users\samsung\Desktop\git\Homework\Homework3\task22\bin\Debug\net6.0\ref\task22.dll
+C:\Users\samsung\Desktop\git\Homework\Homework3\task22\bin\Debug\net6.0\task22.pdb
+C:\Users\samsung\Desktop\git\Homework\Homework3\task22\obj\Debug\net6.0\task22.csproj.AssemblyReference.cache
+C:\Users\samsung\Desktop\git\Homework\Homework3\task22\obj\Debug\net6.0\task22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samsung\Desktop\git\Homework\Homework3\task22\obj\Debug\net6.0\task22.AssemblyInfoInputs.cache
+C:\Users\samsung\Desktop\git\Homework\Homework3\task22\obj\Debug\net6.0\task22.AssemblyInfo.cs
+C:\Users\samsung\Desktop\git\Homework\Homework3\task22\obj\Debug\net6.0\task22.csproj.CoreCompileInputs.cache
+C:\Users\samsung\Desktop\git\Homework\Homework3\task22\obj\Debug\net6.0\task22.dll
+C:\Users\samsung\Desktop\git\Homework\Homework3\task22\obj\Debug\net6.0\ref\task22.dll
+C:\Users\samsung\Desktop\git\Homework\Homework3\task22\obj\Debug\net6.0\task22.pdb
+C:\Users\samsung\Desktop\git\Homework\Homework3\task22\obj\Debug\net6.0\task22.genruntimeconfig.cache

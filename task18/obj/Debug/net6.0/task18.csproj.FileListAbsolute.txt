@@ -1,0 +1,15 @@
+C:\Users\samsung\Desktop\git\Homework\Homework3\task18\obj\Debug\net6.0\task18.csproj.AssemblyReference.cache
+C:\Users\samsung\Desktop\git\Homework\Homework3\task18\obj\Debug\net6.0\task18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samsung\Desktop\git\Homework\Homework3\task18\obj\Debug\net6.0\task18.AssemblyInfoInputs.cache
+C:\Users\samsung\Desktop\git\Homework\Homework3\task18\obj\Debug\net6.0\task18.AssemblyInfo.cs
+C:\Users\samsung\Desktop\git\Homework\Homework3\task18\obj\Debug\net6.0\task18.csproj.CoreCompileInputs.cache
+C:\Users\samsung\Desktop\git\Homework\Homework3\task18\bin\Debug\net6.0\task18.exe
+C:\Users\samsung\Desktop\git\Homework\Homework3\task18\bin\Debug\net6.0\task18.deps.json
+C:\Users\samsung\Desktop\git\Homework\Homework3\task18\bin\Debug\net6.0\task18.runtimeconfig.json
+C:\Users\samsung\Desktop\git\Homework\Homework3\task18\bin\Debug\net6.0\task18.dll
+C:\Users\samsung\Desktop\git\Homework\Homework3\task18\bin\Debug\net6.0\ref\task18.dll
+C:\Users\samsung\Desktop\git\Homework\Homework3\task18\bin\Debug\net6.0\task18.pdb
+C:\Users\samsung\Desktop\git\Homework\Homework3\task18\obj\Debug\net6.0\task18.dll
+C:\Users\samsung\Desktop\git\Homework\Homework3\task18\obj\Debug\net6.0\ref\task18.dll
+C:\Users\samsung\Desktop\git\Homework\Homework3\task18\obj\Debug\net6.0\task18.pdb
+C:\Users\samsung\Desktop\git\Homework\Homework3\task18\obj\Debug\net6.0\task18.genruntimeconfig.cache
